@@ -12,7 +12,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <pdfboxVersion>2.0.26</pdfboxVersion>
+        <pdfboxVersion>2.0.28</pdfboxVersion>
     </properties>
 
     <dependencies>
